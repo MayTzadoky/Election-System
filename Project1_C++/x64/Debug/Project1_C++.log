@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\one1\desktop\c++\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\project1_c++\elections.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Project1_C++.vcxproj -> C:\Users\ONE1\Desktop\c++\x64\Debug\Project1_C++.exe
