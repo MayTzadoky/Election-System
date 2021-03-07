@@ -1,4 +1,41 @@
-﻿  main.cpp
-c:\users\one1\desktop\c++\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-c:\users\one1\desktop\c++\project1_c++\elections.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-  Project1_C++.vcxproj -> C:\Users\ONE1\Desktop\c++\x64\Debug\Project1_C++.exe
+﻿  Address.cpp
+  Ballotbox.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\ballotbox.cpp(125): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\one1\desktop\c++\election-system\project1_c++\ballotbox.cpp(131): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Candidate.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Citizen.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.cpp(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  CoronaBB.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Date.cpp
+  Elections.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(91): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(136): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(172): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(200): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.cpp(234): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  main.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  MilitaryCoronaBB.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Part1Functions.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\elections.h(54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\one1\desktop\c++\election-system\project1_c++\part1functions.cpp(242): warning C4101: 'msg': unreferenced local variable
+c:\users\one1\desktop\c++\election-system\project1_c++\part1functions.cpp(303): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Party.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  MilitaryBB.cpp
+c:\users\one1\desktop\c++\election-system\project1_c++\citizen.h(22): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Project1_C++.vcxproj -> C:\Users\ONE1\Desktop\c++\Election-System\x64\Debug\Project1_C++.exe

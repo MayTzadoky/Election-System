@@ -44,12 +44,12 @@ void addFirstValues(Elections& elections)
 
 	else
 	{
-		elections.addCitizen("May", "Tzadoky", 315530022, 1995, 0, false);
-		elections.addCitizen("Noam", "Levi", 208654667, 1971, 0, false);
-		elections.addCitizen("Noy", "Cohen", 310493945, 1989, 1, false);
-		elections.addCitizen("Chen", "Shitrit", 614283834, 1996, 1, false);
-		elections.addCitizen("Hadar", "zeri", 719482747, 1954, 2, false);
-		elections.addCitizen("Eliram", "Ben", 820406678, 1982, 2, false);
+		elections.addCitizen("May", "Tzadoky", 123456789, 1995, 0, false);
+		elections.addCitizen("Noam", "Levi", 111111111, 1971, 0, false);
+		elections.addCitizen("Noy", "Cohen", 222222222, 1989, 1, false);
+		elections.addCitizen("Chen", "Shitrit", 333333333, 1996, 1, false);
+		elections.addCitizen("Hadar", "zeri", 444444444, 1954, 2, false);
+		elections.addCitizen("Eliram", "Ben", 555555555, 1982, 2, false);
 
 		elections.addCitizenFromParty("Likud", 0);
 		elections.addCitizenFromParty("Likud", 1);
